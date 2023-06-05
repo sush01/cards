@@ -26,6 +26,14 @@ export class AppComponent {
     imageUrl: `assets/windmill.jpeg`,
     username: `renewable energy`,
     content: `Picture of windmill from the shore`
+   },
+   { 
+    title:  `Windmill`,
+    imageUrl: `assets/windmill.jpeg`,
+    username: `renewable energy`,
+    content: `Picture of windmill from the shore`
    }
   ];
+  
+  
 }
