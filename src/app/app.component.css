@@ -1,5 +1,6 @@
-.card
-{
-  width: 300px;
-  border: 1px solid red !important;
+:host{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
 }
